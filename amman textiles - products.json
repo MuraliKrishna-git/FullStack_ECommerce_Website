@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Yasko shirt",
+    "icon": "https://mir-s3-cdn-cf.behance.net/projects/404/c0815c107353699.Y3JvcCwxNTAwLDExNzMsMCwxMTg.jpg",
+    "type": "shirt",
+    "cost": 899,
+    "discount": 11
+  },
+  {
+    "name": "Sero shirt",
+    "icon": "https://www.seroapparels.com/home/wp-content/uploads/2021/03/19-Sero-Pg-19-800x577-1.jpg",
+    "type": "shirt",
+    "cost": 949,
+    "discount": 11
+  },
+  {
+    "name": "Ramraj shirt",
+    "icon": "https://ramrajcotton.in/cdn/shop/files/241019_Ramraj_e-com11754_9a400d5a-c28e-4638-91e7-9ab68e6d83d7.jpg?v=1730969153",
+    "type": "shirt",
+    "cost": 1499,
+    "discount": 7
+  },
+  {
+    "name": "Otto shirt",
+    "icon": "https://www.ottostore.com/cdn/shop/files/Shot-11_1800x.jpg?v=1711441230",
+    "type": "shirt",
+    "cost": 1349,
+    "discount": 7
+  },
+  {
+    "name": "Culture Club shirt",
+    "icon": "https://thefoomer.in/cdn/shop/files/jpeg-optimizer_PATP0966_cd2e6264-7eac-445d-b608-f4f39d25fea1.jpg?v=1705728986&width=3710",
+    "type": "shirt",
+    "cost": 1199,
+    "discount": 8
+  },
+  {
+    "name": "Linen park shirt",
+    "icon": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/2277853/2017/12/7/11512624901550-Louis-Park-Pure-Linen-Shirt-9551512624901391-1.jpg",
+    "type": "shirt",
+    "cost": 1799,
+    "discount": 6
+  },
+  {
+    "name": "Reynolds shirt",
+    "icon": "https://i.pinimg.com/originals/b2/1b/bd/b21bbde39f101d0230ab179b700731ee.jpg",
+    "type": "shirt",
+    "cost": 1999,
+    "discount": 5
+  },
+  {
+    "name": "Sero pant",
+    "icon": "https://rukminim2.flixcart.com/image/720/864/kh5607k0-0/trouser/z/n/f/38-vzctr-249-volume-zero-original-imafx88fvfxzpnzf.jpeg?q=60&crop=false",
+    "type": "pant",
+    "cost": 799,
+    "discount": 13
+  },
+  {
+    "name": "Otto pant",
+    "icon": "https://www.ottostore.com/cdn/shop/files/NEWPORT_3_1_1024x1024.png?v=1703590800",
+    "type": "pant",
+    "cost": 849,
+    "discount": 12
+  },
+  {
+    "name": "Atler pant",
+    "icon": "https://assets.ajio.com/medias/sys_master/root/20230629/68OK/649d062deebac147fc38eab1/-473Wx593H-464170987-brown-MODEL2.jpg",
+    "type": "pant",
+    "cost": 899,
+    "discount": 11
+  },
+  {
+    "name": "Yasko pant",
+    "icon": "https://images.meesho.com/images/products/369905116/eizqc_512.jpg",
+    "type": "pant",
+    "cost": 899,
+    "discount": 11
+  },
+  {
+    "name": "Ramraj pant",
+    "icon": "https://ramrajcotton.in/cdn/shop/files/240524_ramraj0654.jpg?v=1730791883&width=1080",
+    "type": "pant",
+    "cost": 1299,
+    "discount": 8
+  },
+  {
+    "name": "Poonam saree",
+    "icon": "https://oneminutesaree.in/cdn/shop/products/BWSON-10001-1_e5c88854-3e3b-4d0d-aa93-738a81ceccdc.jpg?v=1701694422",
+    "type": "saree",
+    "cost": 2099,
+    "discount": 5
+  },
+  {
+    "name": "Crape saree",
+    "icon": "https://i.pinimg.com/736x/12/c7/42/12c742373ebbcf7f2ad0e849c4058d14.jpg",
+    "type": "saree",
+    "cost": 2099,
+    "discount": 5
+  },
+  {
+    "name": "Turkey saree",
+    "icon": "https://sycron.in/cdn/shop/files/grey_2_38980074-8229-42ba-9ed6-a7fa2e9649a2.jpg?v=1713184478",
+    "type": "saree",
+    "cost": 2099,
+    "discount": 5
+  },
+  {
+    "name": "Chiffon saree",
+    "icon": "https://assets.ajio.com/medias/sys_master/root/20230626/dRpD/6498949da9b42d15c9f1fb66/-473Wx593H-466174802-green-MODEL.jpg",
+    "type": "saree",
+    "cost": 1599,
+    "discount": 6
+  },
+  {
+    "name": "Silk cotton- Bengali saree",
+    "icon": "https://www.shopbollywear.com/cdn/shop/files/image_b872e892-e38f-4b0c-b5db-8ce060ed862b_1024x1024.png?v=1685641995",
+    "type": "saree",
+    "cost": 1599,
+    "discount": 6
+  },
+  {
+    "name": "Silk cotton - Chetichand saree",
+    "icon": "https://thenmozhidesigns.com/cdn/shop/files/3S2A9844copy.jpg?v=1693630734&width=920",
+    "type": "saree",
+    "cost": 1599,
+    "discount": 6
+  },
+  {
+    "name": "City girl",
+    "icon": "https://rukminim2.flixcart.com/image/850/1000/xif0q/kids-dress/7/m/r/6-9-months-f3-new-floral-baby-frock-edit-suncity-fashion-mart-original-imagn7p3fxx3fhyw.jpeg?q=90&crop=false",
+    "type": "kids-w",
+    "cost": 1099,
+    "discount": 9
+  },
+  {
+    "name": "Xtrove kids",
+    "icon": "https://liandli.in/cdn/shop/products/gf.jpg?v=1669881480",
+    "type": "kids-w",
+    "cost": 599,
+    "discount": 17
+  },
+  {
+    "name": "My dreams",
+    "icon": "https://m.media-amazon.com/images/I/91BQQavz3jL._AC_UY1100_.jpg",
+    "type": "kids-w",
+    "cost": 1099,
+    "discount": 9
+  },
+  {
+    "name": "S. Ali - girls",
+    "icon": "https://images.meesho.com/images/products/285602253/pjpko_512.webp",
+    "type": "kids-w",
+    "cost": 1599,
+    "discount": 6
+  },
+  {
+    "name": "Badnaam",
+    "icon": "https://www.smilebabyonline.com/VendorAssets/1044/StoreImages/medium/139383496L-GREEN.jpg",
+    "type": "kids",
+    "cost": 599,
+    "discount": 17
+  },
+  {
+    "name": "City boy",
+    "icon": "https://5.imimg.com/data5/SELLER/Default/2024/8/444468043/PM/IZ/CW/228070629/img-20240821-wa0084-500x500.jpg",
+    "type": "kids",
+    "cost": 1599,
+    "discount": 6
+  },
+  {
+    "name": "Kid n kid",
+    "icon": "https://2.wlimg.com/product_images/bc-full/2024/7/12204832/boy-kids-wear-dress-1720519923-7494732.jpg",
+    "type": "kids",
+    "cost": 599,
+    "discount": 17
+  },
+  {
+    "name": "Uno kids",
+    "icon": "https://www.onefridayworld.com/cdn/shop/files/2R9A0812_705x.jpg?v=1729658169",
+    "type": "kids",
+    "cost": 1099,
+    "discount": 9
+  },
+  {
+    "name": "Two kid",
+    "icon": "https://thetaffy.in/cdn/shop/files/H32A2410.jpg?v=1724232745",
+    "type": "kids",
+    "cost": 1799,
+    "discount": 6
+  },
+  {
+    "name": "Prisma",
+    "icon": "https://myprisma.in/cdn/shop/files/2_941ced77-fc95-4cfb-abed-5eaccdf64cf9.jpg?v=1681823756&width=360",
+    "type": "leggins",
+    "cost": 949,
+    "discount": 11
+  },
+  {
+    "name": "Twin Birds",
+    "icon": "https://twinbirds.co.in/cdn/shop/products/1502-ANKLELEGGINGCOTTON-BLUECHIP.jpg?v=1681803718&width=600",
+    "type": "leggins",
+    "cost": 449,
+    "discount": 22
+  },
+  {
+    "name": "Fly Birds",
+    "icon": "https://m.media-amazon.com/images/I/71+swpFWq0L._SL1500_.jpg",
+    "type": "leggins",
+    "cost": 949,
+    "discount": 11
+  },
+  {
+    "name": "Jockey - men's",
+    "icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jockey.in%2Fcollections%2Fsleeveless-vest&psig=AOvVaw3SMx-Z4IPIeggYY7hAmRqb&ust=1732391260969000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDqq8Da8IkDFQAAAAAdAAAAABAI",
+    "type": "inners",
+    "cost": 120,
+    "discount": 83
+  },
+  {
+    "name": "Poomer - men's",
+    "icon": "https://poomex.in/content/uploads/2024/03/pmx_rot_card_01_lr.webp",
+    "type": "inners",
+    "cost": 420,
+    "discount": 24
+  },
+  {
+    "name": "Viking",
+    "icon": "https://rukminim2.flixcart.com/image/750/900/xif0q/vest/2/b/p/100-rn-col-vest-viking-innerwear-original-imagggywftjphf8b.jpeg?q=20&crop=false",
+    "type": "inners",
+    "cost": 720,
+    "discount": 14
+  },
+  {
+    "name": "Ramraj",
+    "icon": "https://ramrajcotton.in/cdn/shop/products/1_b1011aec-87c1-461d-a059-9c00db285d72.jpg?v=1619183601",
+    "type": "inners",
+    "cost": 120,
+    "discount": 83
+  },
+  {
+    "name": "Naidu Hall",
+    "icon": "https://rukminim2.flixcart.com/image/850/1000/xif0q/bra/e/f/n/non-padded-30b-1-regular-no-regular-beauti-pack1-naidu-hall-original-imagsfudfnqdyzpj.jpeg?q=20&crop=false",
+    "type": "inners-w",
+    "cost": 570,
+    "discount": 18
+  },
+  {
+    "name": "Jockey - women's",
+    "icon": "https://www.jockey.in/cdn/shop/products/1827_BLACK_0103_S123_JKY_4.webp?v=1700004255&width=420",
+    "type": "inners-w",
+    "cost": 570,
+    "discount": 18
+  },
+  {
+    "name": "Prithvi",
+    "icon": "https://www.prithviinnerwears.com/cdn/shop/products/INDIGO_PT01_dfec0a3b-4898-4c00-9ada-df89a6bde502_1080x.jpg?v=1625814549",
+    "type": "inners-w",
+    "cost": 270,
+    "discount": 37
+  },
+  {
+    "name": "Poomer - women's",
+    "icon": "https://images.meesho.com/images/products/228260507/nmiym_512.webp",
+    "type": "inners-w",
+    "cost": 720,
+    "discount": 14
+  },
+  {
+    "name": "Ramraj",
+    "icon": "https://ramrajcotton.in/cdn/shop/products/1_5860786d-cdfc-4473-b6ba-7d1c78eb106f.jpg?v=1666326315&width=900",
+    "type": "dhoti",
+    "cost": 2699,
+    "discount": 4
+  },
+  {
+    "name": "Sarathi",
+    "icon": "https://uathayam.in/cdn/shop/files/04_0c706564-2f5b-40c4-be1a-edd9955e5cfe.jpg?v=1706772658",
+    "type": "dhoti",
+    "cost": 2699,
+    "discount": 4
+  },
+  {
+    "name": "Little star",
+    "icon": "https://ramrajcotton.in/cdn/shop/files/ECOM02468_5cbb6f0c-8214-40c1-bdc3-6dd6ee10e287.jpg?v=1723885692&width=1080",
+    "type": "dhoti",
+    "cost": 1699,
+    "discount": 6
+  },
+  {
+    "name": "Nandu lungi",
+    "icon": "https://media.e-valy.com/cms/products/images/2f238a6d-e602-4a8c-88fd-3035a0501008",
+    "type": "lungi",
+    "cost": 250,
+    "discount": 40
+  },
+  {
+    "name": "Sangu Lungi",
+    "icon": "https://m.media-amazon.com/images/I/41cKWXf7PsL._AC_UY1100_.jpg",
+    "type": "lungi",
+    "cost": 650,
+    "discount": 15
+  },
+  {
+    "name": "999 lungi",
+    "icon": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/a6878072389777.5be58698f0e99.jpg",
+    "type": "lungi",
+    "cost": 650,
+    "discount": 15
+  }
+]

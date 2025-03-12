@@ -1,0 +1,354 @@
+[
+  {
+    "name": "Yasko shirt",
+    "icon": "https://m.media-amazon.com/images/I/81y7N-XNSIL._AC_UY350_.jpg",
+    "type": "shirt",
+    "cost": 899,
+    "discount": 11.12347052,
+    "count": 53
+  },
+  {
+    "name": "Sero shirt",
+    "icon": "https://m.media-amazon.com/images/I/81y7N-XNSIL._AC_UY350_.jpg",
+    "type": "shirt",
+    "cost": 949,
+    "discount": 10.5374078,
+    "count": 67
+  },
+  {
+    "name": "Ramraj shirt",
+    "icon": "https://m.media-amazon.com/images/I/81y7N-XNSIL._AC_UY350_.jpg",
+    "type": "shirt",
+    "cost": 1499,
+    "discount": 6.671114076,
+    "count": 61
+  },
+  {
+    "name": "Otto shirt",
+    "icon": "https://m.media-amazon.com/images/I/81y7N-XNSIL._AC_UY350_.jpg",
+    "type": "shirt",
+    "cost": 1349,
+    "discount": 7.412898443,
+    "count": 25
+  },
+  {
+    "name": "Culture Club shirt",
+    "icon": "https://m.media-amazon.com/images/I/81y7N-XNSIL._AC_UY350_.jpg",
+    "type": "shirt",
+    "cost": 1199,
+    "discount": 8.34028357,
+    "count": 43
+  },
+  {
+    "name": "Linen park shirt",
+    "icon": "https://m.media-amazon.com/images/I/81y7N-XNSIL._AC_UY350_.jpg",
+    "type": "shirt",
+    "cost": 1799,
+    "discount": 5.558643691,
+    "count": 49
+  },
+  {
+    "name": "Reynolds shirt",
+    "icon": "https://m.media-amazon.com/images/I/81y7N-XNSIL._AC_UY350_.jpg",
+    "type": "shirt",
+    "cost": 1999,
+    "discount": 5.002501251,
+    "count": 30
+  },
+  {
+    "name": "Sero pant",
+    "icon": "https://i.pinimg.com/564x/d2/02/9a/d2029a0260239fefc88b05e54ec88e22.jpg",
+    "type": "pant",
+    "cost": 799,
+    "discount": 12.51564456,
+    "count": 50
+  },
+  {
+    "name": "Otto pant",
+    "icon": "https://i.pinimg.com/564x/d2/02/9a/d2029a0260239fefc88b05e54ec88e22.jpg",
+    "type": "pant",
+    "cost": 849,
+    "discount": 11.77856302,
+    "count": 39
+  },
+  {
+    "name": "Atler pant",
+    "icon": "https://i.pinimg.com/564x/d2/02/9a/d2029a0260239fefc88b05e54ec88e22.jpg",
+    "type": "pant",
+    "cost": 899,
+    "discount": 11.12347052,
+    "count": 44
+  },
+  {
+    "name": "Yasko pant",
+    "icon": "https://i.pinimg.com/564x/d2/02/9a/d2029a0260239fefc88b05e54ec88e22.jpg",
+    "type": "pant",
+    "cost": 899,
+    "discount": 11.12347052,
+    "count": 59
+  },
+  {
+    "name": "Ramraj pant",
+    "icon": "https://i.pinimg.com/564x/d2/02/9a/d2029a0260239fefc88b05e54ec88e22.jpg",
+    "type": "pant",
+    "cost": 1299,
+    "discount": 7.698229407,
+    "count": 72
+  },
+  {
+    "name": "Poonam saree",
+    "icon": "https://i.pinimg.com/564x/40/bc/be/40bcbeba8390e737128d2ce0229dff15.jpg",
+    "type": "saree",
+    "cost": 2099,
+    "discount": 4.764173416,
+    "count": 55
+  },
+  {
+    "name": "Crape saree",
+    "icon": "https://i.pinimg.com/564x/40/bc/be/40bcbeba8390e737128d2ce0229dff15.jpg",
+    "type": "saree",
+    "cost": 2599,
+    "discount": 3.847633705,
+    "count": 66
+  },
+  {
+    "name": "Turkey saree",
+    "icon": "https://i.pinimg.com/564x/40/bc/be/40bcbeba8390e737128d2ce0229dff15.jpg",
+    "type": "saree",
+    "cost": 1599,
+    "discount": 6.253908693,
+    "count": 47
+  },
+  {
+    "name": "Chiffon saree",
+    "icon": "https://i.pinimg.com/564x/40/bc/be/40bcbeba8390e737128d2ce0229dff15.jpg",
+    "type": "saree",
+    "cost": 1599,
+    "discount": 6.253908693,
+    "count": 76
+  },
+  {
+    "name": "Silk cotton- Bengali saree",
+    "icon": "https://i.pinimg.com/564x/40/bc/be/40bcbeba8390e737128d2ce0229dff15.jpg",
+    "type": "saree",
+    "cost": 2599,
+    "discount": 3.847633705,
+    "count": 44
+  },
+  {
+    "name": "Silk cotton - Chetichand saree",
+    "icon": "https://i.pinimg.com/564x/40/bc/be/40bcbeba8390e737128d2ce0229dff15.jpg",
+    "type": "saree",
+    "cost": 2599,
+    "discount": 3.847633705,
+    "count": 50
+  },
+  {
+    "name": "City girl",
+    "icon": "https://m.media-amazon.com/images/I/71PlUmumi+L._AC_UY1100_.jpg",
+    "type": "kids-w",
+    "cost": 599,
+    "discount": 16.69449082,
+    "count": 47
+  },
+  {
+    "name": "Xtrove kids",
+    "icon": "https://m.media-amazon.com/images/I/71PlUmumi+L._AC_UY1100_.jpg",
+    "type": "kids-w",
+    "cost": 1599,
+    "discount": 6.253908693,
+    "count": 39
+  },
+  {
+    "name": "My dreams",
+    "icon": "https://m.media-amazon.com/images/I/71PlUmumi+L._AC_UY1100_.jpg",
+    "type": "kids-w",
+    "cost": 1099,
+    "discount": 9.099181074,
+    "count": 70
+  },
+  {
+    "name": "S. Ali - girls",
+    "icon": "https://m.media-amazon.com/images/I/71PlUmumi+L._AC_UY1100_.jpg",
+    "type": "kids-w",
+    "cost": 1599,
+    "discount": 6.253908693,
+    "count": 38
+  },
+  {
+    "name": "Badnaam",
+    "icon": "https://assets0.mirraw.com/images/6243132/251_zoom.jpg?1710773926",
+    "type": "kids",
+    "cost": 1099,
+    "discount": 9.099181074,
+    "count": 65
+  },
+  {
+    "name": "City boy",
+    "icon": "https://assets0.mirraw.com/images/6243132/251_zoom.jpg?1710773927",
+    "type": "kids",
+    "cost": 1599,
+    "discount": 6.253908693,
+    "count": 71
+  },
+  {
+    "name": "Kid n kid",
+    "icon": "https://assets0.mirraw.com/images/6243132/251_zoom.jpg?1710773928",
+    "type": "kids",
+    "cost": 599,
+    "discount": 16.69449082,
+    "count": 72
+  },
+  {
+    "name": "Uno kids",
+    "icon": "https://assets0.mirraw.com/images/6243132/251_zoom.jpg?1710773929",
+    "type": "kids",
+    "cost": 1599,
+    "discount": 6.253908693,
+    "count": 25
+  },
+  {
+    "name": "Two kid",
+    "icon": "https://assets0.mirraw.com/images/6243132/251_zoom.jpg?1710773930",
+    "type": "kids",
+    "cost": 1299,
+    "discount": 7.698229407,
+    "count": 64
+  },
+  {
+    "name": "Prisma",
+    "icon": "https://myprisma.in/cdn/shop/files/2_941ced77-fc95-4cfb-abed-5eaccdf64cf9.jpg?v=1681823756&width=360",
+    "type": "leggins",
+    "cost": 949,
+    "discount": 3.8491147039999998,
+    "count": 29
+  },
+  {
+    "name": "Twin Birds",
+    "icon": "https://myprisma.in/cdn/shop/files/2_941ced77-fc95-4cfb-abed-5eaccdf64cf9.jpg?v=1681823756&width=361",
+    "type": "leggins",
+    "cost": 699,
+    "discount": 5.268703899,
+    "count": 42
+  },
+  {
+    "name": "Fly Birds",
+    "icon": "https://myprisma.in/cdn/shop/files/2_941ced77-fc95-4cfb-abed-5eaccdf64cf9.jpg?v=1681823756&width=362",
+    "type": "leggins",
+    "cost": 449,
+    "discount": 7.153075823,
+    "count": 48
+  },
+  {
+    "name": "Jockey - men's",
+    "icon": "https://www.nevaindia.com/cdn/shop/products/file463_939a4649-c520-4340-847f-92a3592490c7.jpg?v=1662980095&width=1600",
+    "type": "inners",
+    "cost": 120,
+    "discount": 7.153075823,
+    "count": 69
+  },
+  {
+    "name": "Poomer - men's",
+    "icon": "https://www.nevaindia.com/cdn/shop/products/file463_939a4649-c520-4340-847f-92a3592490c7.jpg?v=1662980095&width=1601",
+    "type": "inners",
+    "cost": 570,
+    "discount": 11.13585746,
+    "count": 67
+  },
+  {
+    "name": "Viking",
+    "icon": "https://www.nevaindia.com/cdn/shop/products/file463_939a4649-c520-4340-847f-92a3592490c7.jpg?v=1662980095&width=1602",
+    "type": "inners",
+    "cost": 120,
+    "discount": 41.66666667,
+    "count": 35
+  },
+  {
+    "name": "Ramraj",
+    "icon": "https://www.nevaindia.com/cdn/shop/products/file463_939a4649-c520-4340-847f-92a3592490c7.jpg?v=1662980095&width=1603",
+    "type": "inners",
+    "cost": 720,
+    "discount": 8.771929825,
+    "count": 25
+  },
+  {
+    "name": "Naidu Hall",
+    "icon": "https://m.media-amazon.com/images/I/61wNLbBe4RL._AC_UY1100_.jpg",
+    "type": "inners-w",
+    "cost": 120,
+    "discount": 41.66666667,
+    "count": 31
+  },
+  {
+    "name": "Jockey - women's",
+    "icon": "https://m.media-amazon.com/images/I/61wNLbBe4RL._AC_UY1100_.jpg",
+    "type": "inners-w",
+    "cost": 270,
+    "discount": 6.944444444,
+    "count": 45
+  },
+  {
+    "name": "Prithvi",
+    "icon": "https://m.media-amazon.com/images/I/61wNLbBe4RL._AC_UY1100_.jpg",
+    "type": "inners-w",
+    "cost": 120,
+    "discount": 41.66666667,
+    "count": 46
+  },
+  {
+    "name": "Poomer - women's",
+    "icon": "https://m.media-amazon.com/images/I/61wNLbBe4RL._AC_UY1100_.jpg",
+    "type": "inners-w",
+    "cost": 270,
+    "discount": 18.51851852,
+    "count": 55
+  },
+  {
+    "name": "Ramraj",
+    "icon": "https://uathayam.in/cdn/shop/files/04_0c706564-2f5b-40c4-be1a-edd9955e5cfe.jpg?v=1706772657",
+    "type": "dhoti",
+    "cost": 2699,
+    "discount": 83.33333333,
+    "count": 66
+  },
+  {
+    "name": "Sarathi",
+    "icon": "https://uathayam.in/cdn/shop/files/04_0c706564-2f5b-40c4-be1a-edd9955e5cfe.jpg?v=1706772658",
+    "type": "dhoti",
+    "cost": 1199,
+    "discount": 37.03703704,
+    "count": 25
+  },
+  {
+    "name": "Little star",
+    "icon": "https://ramrajcotton.in/cdn/shop/files/1_b5fbedd0-083f-4b20-9578-bea2fc41653a.jpg?v=1696227264",
+    "type": "dhoti",
+    "cost": 699,
+    "discount": 3.705075954,
+    "count": 73
+  },
+  {
+    "name": "Nandu lungi",
+    "icon": "https://www.canaduo.com/cdn/shop/products/nandu-elite-lungi-920770.png?v=1695994334",
+    "type": "lungi",
+    "cost": 250,
+    "discount": 2.5020850709999998,
+    "count": 72
+  },
+  {
+    "name": "Sangu Lungi",
+    "icon": "https://www.canaduo.com/cdn/shop/products/nandu-elite-lungi-920770.png?v=1695994335",
+    "type": "lungi",
+    "cost": 650,
+    "discount": 4.291845494,
+    "count": 44
+  },
+  {
+    "name": "999 lungi",
+    "icon": "https://www.canaduo.com/cdn/shop/products/nandu-elite-lungi-920770.png?v=1695994336",
+    "type": "lungi",
+    "cost": 450,
+    "discount": 12,
+    "count": 38
+  }
+]
