@@ -27,6 +27,7 @@ The website includes **product categorization, cart management, order finalizati
 - **Libraries Used:** Multer (for file uploads), XLSX (for Excel operations)
 
 ## Directory Structure
+- **Note:** Directory structure may vary upon the changes that I may do frequently, so better refer to the directory structure in the folder by yourself.
 ```
 shop_website/
 |-- index.html  (Main Landing Page)
@@ -46,7 +47,7 @@ shop_website/
 ## Installation & Running the Project
 1. **Clone the Repository:**
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/MuraliKrishna-git/FullStack_ECommerce_Website.git
    cd shop_website
    ```
 2. **Install Dependencies:**
@@ -70,9 +71,11 @@ shop_website/
 - `POST /json-to-excel` - Convert JSON to Excel
 
 ## Future Scope
-- **User Authentication**
-- **Real Payment Integration**
-- **Mobile App Version**
+- **User Authentication** Adding user login and signup options for storing and viewing their personal details and history of orders. As per my knowledge of now AuthO is best for email authentication practices.
+- **Real Payment Integration** - Adding Stripe Payment gateway (if any company asked for a fullstack website) or will do it when I have free time or specifically usefull for my career.
+- **Mobile App Version** - This is a big problem on paper, but simple we can do a react app like Amazon 😆. Anyways still learning about this and will update soon!
+
+-**Note:** This project is a demo version on how a fullstack may be designed and the UI in this project is not impressive as I focused mainly on the backed integration and working part considering the deadline I had for this project. In future if time permits, will improve the UI and possibly make a React Web Application.
 
 ## License
 This project is for educational purposes only.
